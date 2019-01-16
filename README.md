@@ -1,1 +1,2 @@
-# feb2019
+# HAN Minor Smart Industry
+
