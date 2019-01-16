@@ -4,9 +4,10 @@
 
 ## Programma
 
-![](https://github.com/minorsmart/feb2019/blob/master/docs/IMG_20190116_115948.jpg)
+![](https://github.com/minorsmart/feb2019/blob/master/docs/IMG_20190116_143518.jpg)
 
 ### Smart Working
 
-![](https://github.com/minorsmart/feb2019/blob/master/docs/IMG_20190116_143518.jpg)
+![](https://github.com/minorsmart/feb2019/blob/master/docs/Screenshot%202019-01-16%20at%2015.31.48.png)
+
 
