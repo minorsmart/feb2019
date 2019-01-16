@@ -8,5 +8,5 @@
 
 ### Smart Working
 
-![](../docs/Screenshot 2019-01-16 at 15.31.48.png)
+![](../docs/Screenshot%202019-01-16%20at%2015.31.48.png)
 
