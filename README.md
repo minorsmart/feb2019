@@ -8,5 +8,5 @@
 
 ### Smart Working
 
-![](https://github.com/minorsmart/feb2019//docs/Screenshot 2019-01-16 at 15.31.48.png)
+![](../docs/Screenshot 2019-01-16 at 15.31.48.png)
 
