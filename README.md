@@ -4,7 +4,7 @@
 
 ## Programma Smart Start
 
-![](IMG_20190117_085424.jpg)
+![](https://github.com/minorsmart/feb2019/blob/master/docs/IMG_20190117_085424.jpg)
 
 ### Smart Working
 
